@@ -1,4 +1,4 @@
-= image:https://github.com/FNNDSC/ChRIS_ultron_backEnd/blob/master/docs/assets/logo_chris.png[ChRIS logo] ChRIS_store_ui
+= image:https://github.com/FNNDSC/ChRIS_ultron_backEnd/blob/master/docs/assets/logo_chris.png?raw=true[ChRIS logo] ChRIS_store_ui
 
 UI for the ChRIS Store.
 
