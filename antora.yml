@@ -1,0 +1,11 @@
+name: ChRISDocs
+title: ChRIS Documentation
+version: 1.0.0
+start_page: ROOT:README.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- modules/ROOT/nav.adoc
+
