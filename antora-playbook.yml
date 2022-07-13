@@ -1,11 +1,12 @@
 site:
   title: ChRIS Store Documentation
-  start_page: ChRISDocs::README.adoc 
+  start_page: ChRISDocs::README.adoc
 content:
-  sources: 
+  sources:
   - url: https://github.com/Mfonn/ChRIS_store_ui.git
     branches: antora
-ui: 
+ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
+ 
