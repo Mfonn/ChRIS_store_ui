@@ -1,5 +1,5 @@
 site:
-  title: ChRIS Documentation
+  title: ChRIS Store Documentation
   start_page: ChRISDocs::README.adoc 
 content:
   sources: 
@@ -9,4 +9,3 @@ ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
-    
