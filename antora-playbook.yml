@@ -10,7 +10,7 @@ content:
   - url: https://github.com/Mfonn/ChRIS_store.git
     branches: antora
   - url: https://github.com/Mfonn/ChRIS_ultron_backEnd.git
-    branches:
+    branches: antora
 
 ui:
   bundle:
