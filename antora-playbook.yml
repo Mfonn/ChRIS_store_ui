@@ -7,7 +7,6 @@ content:
     branches: antora_css
   - url: https://github.com/Mfonn/ChRIS_ui.git
     branches: antora
-    start_path: modules
 
 ui:
   bundle:
