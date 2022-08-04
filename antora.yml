@@ -1,6 +1,6 @@
 name: ChRISDocs
 title: Antora docs
-version: 0.0.1
+version: ChRIS_store_ui
 start_page: ROOT:ChRIS_store_ui_README.adoc
 asciidoc:
   attributes:
