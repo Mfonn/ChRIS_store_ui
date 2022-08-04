@@ -4,7 +4,7 @@ site:
 content:
   sources:
   - url: https://github.com/Mfonn/ChRIS_store_ui.git
-    branches: antora
+    branches: antora_css
 
 ui:
   bundle:

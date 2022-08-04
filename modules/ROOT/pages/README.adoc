@@ -2,7 +2,7 @@
 
 UI for the ChRIS Store.
 
-image::../assets/home.png?raw=true[Homepage]
+image::..../assets/home.png?raw=true[Homepage]
 
 link:LICENSE[image:https://img.shields.io/github/license/fnndsc/chris_store_ui.svg[MIT License\]] image:https://img.shields.io/github/last-commit/fnndsc/chris_store_ui.svg[Last Commit] image:https://img.shields.io/github/stars/fnndsc/chris_store_ui.svg?style=social&label=Stars[Stars,link=https://github.com/FNNDSC/ChRIS_store_ui] image:https://img.shields.io/github/forks/fnndsc/chris_store_ui.svg?style=social&label=Fork[Forks,link=https://github.com/FNNDSC/ChRIS_store_ui]
 
